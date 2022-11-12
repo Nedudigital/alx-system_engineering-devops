@@ -1,1 +1,1 @@
-shell permissions commands
+This scripts shows varipus permissions that can be done in shell
